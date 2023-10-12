@@ -3,7 +3,7 @@ def armstrong_num(num):
     exp = len(str(num))
     #added comment
     #added 2nd comment
-    #I am in main branch
+    #I am in feature1 branch
     total = 0
     while num > 0:
         remainder = num % 10
