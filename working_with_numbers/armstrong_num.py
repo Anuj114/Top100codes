@@ -7,7 +7,7 @@ def armstrong_num(num):
     #I am in  branch
 
     #I am in main branch
-    #Hi merge
+
 
     total = 0
     while num > 0:
