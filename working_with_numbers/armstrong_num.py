@@ -4,9 +4,10 @@ def armstrong_num(num):
     #added comment
     #added 2nd comment
 
-    #I am in feature1 branch
+    #I am in  branch
 
     #I am in main branch
+    #Hi merge
 
     total = 0
     while num > 0:
