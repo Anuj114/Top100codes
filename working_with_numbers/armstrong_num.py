@@ -1,6 +1,7 @@
 def armstrong_num(num):
     original = num
     exp = len(str(num))
+
     total = 0
     while num > 0:
         remainder = num % 10
