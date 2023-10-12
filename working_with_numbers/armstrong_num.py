@@ -1,12 +1,11 @@
 def armstrong_num(num):
     original = num
     exp = len(str(num))
-    #added comment
-    #added 2nd comment
 
-    #I am in  branch
 
-    #I am in main branch
+
+
+    #I am in feature branch
 
 
     total = 0
