@@ -1,13 +1,8 @@
 def armstrong_num(num):
     original = num
     exp = len(str(num))
-    #added comment
-    #added 2nd comment
-
-    #I am in  branch
 
     #I am in main branch
-    #Hi merge
 
     total = 0
     while num > 0:
